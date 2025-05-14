@@ -1,4 +1,4 @@
-# 🌿 cannaUNITY v0.6.18 (Pre-Alpha)
+# 🌿 cannaUNITY v0.6.18 (Pre-Alpha Testfork by cannatoshi)
 "Masteransicht für festes UI Panel 1920x1080p"
 
 > **Modulare Open-Source-Software für Cannabis Social Clubs und Anbauvereinigungen gemäß dem Konsumcannabisgesetz § (KCanG)**  
